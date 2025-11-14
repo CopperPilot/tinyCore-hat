@@ -4087,26 +4087,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text_box "3.3V ONLY!!!"
-		(start 129.709995 97.396655)
-		(end 127.109995 112.677905)
-		(margins 0 0 0 0)
-		(angle 270)
-		(layer "B.SilkS")
-		(uuid "4bdcada6-828c-4f11-b732-d1d03d74f08a")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.2032)
-			)
-			(justify top mirror)
-		)
-		(border no)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-	)
 	(zone
 		(net 22)
 		(net_name "GND")
