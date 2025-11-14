@@ -8,6 +8,8 @@
 		(title "tinyCore HAT by CopperPilot.ai")
 		(date "2025-11-14")
 		(company "CopperPilot.ai & tinyCore")
+		(comment 1 "tinyCore is an ESP32 based dev board")
+		(comment 2 "Datasheet: https://raw.githubusercontent.com/Mister-Industries/tinyCore/main/Datasheets/tinyCore%20Datasheet%20(V2)%20DRAFT.pdf")
 	)
 	(lib_symbols
 		(symbol "ECEN5730Lib_2023_05_DS (2):root_0_JF_8_PIN_FEMALE_ECEN5730Lib_2023_05_DS (2).IntLib"
