@@ -4,6 +4,8 @@ A starter template for creating custom hardware hats for the [TinyCore](https://
 
 ## What's Included
 
+![Preview](preview.png)
+
 This template provides:
 - **Pin Headers**: Pre-configured connectors matching TinyCore's pinout
 - **Board Outline**: Correctly sized PCB outline for a TinyCore hat
